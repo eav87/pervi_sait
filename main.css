@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+p {color: darkred;
+}
+* {
+ margin: 0;
+ padding: 0;
+}
+a{color:white}
+
+#header{
+ background:cadetblue;
+ width:100%;
+ height:150px;
+ text-align:center;
+ color:#FFFFFF;
+ font-size:40px;
+ padding-top:50px;
+ font-family:Lobster;
+}
+#menu{
+ background:lightsteelblue;
+ float:left;
+ width:30%;
+ height:700px;
+ text-align:center;
+ color:#FFFFFF;
+ font-size:18px;
+ padding-top:10px;
+}
+#content{
+ background:#ffffff;
+ margin-left:30%;
+ height:700px;
+ text-align:center;
+}
+#footer{
+ background:cornflowerblue;
+ clear:both;
+ width:100%;
+ height:60px;
+ text-align:center;
+ color:beige;
+ font-size:14px;
+ padding-top:10px;
+}
+#menu2{
+ background-image:url("https://avatars.mds.yandex.net/get-vertis-journal/3934100/2019-09-05-a28503f19e374efb89488182136b4599.jpg_1622735898564/orig");
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+ float:left;
+ width:100%;
+ height:700px;
+ text-align:center;
+ color:#FFFFFF;
+ font-size:18px;
+ padding-top:10px;
+}
+#menu2 form select {
+ width: 200px;
+ height: 30px;
+}
+#foto1{
+ width: 100%;
+ height: 200px;
+ background-image: url("https://www.fonstola.ru/pic/201205/800x600/fonstola.ru_77377.jpg");
+ background-size: cover;
+ border-radius:5px 2px;
+
+
+}
+#foto2{
+ width: 100%;
+ height: 200px;
+ background-image: url("https://wallbox.ru/resize/800x480/wallpapers/main/201326/mashiny-12ffaf1.jpg");
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+}
+#foto3{
+ width: 100%;
+ height: 200px;
+ background-image: url("https://img2.goodfon.ru/original/800x480/8/13/audi-s8-plus-car-road-speed.jpg");
+ background-size: cover;
+
+
+
+}
+
